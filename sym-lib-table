@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "device")(type "KiCad")(uri "${KIPRJMOD}/lib/_Schematic_Library/device.kicad_sym")(options "")(descr ""))
+  (lib (name "IBM")(type "KiCad")(uri "${KIPRJMOD}/lib/_Schematic_Library/IBM.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-choc")(type "KiCad")(uri "${KIPRJMOD}/lib/_Schematic_Library/marbastlib-choc.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/lib/_Schematic_Library/marbastlib-mx.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/lib/_Schematic_Library/marbastlib-various.kicad_sym")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "${KIPRJMOD}/lib/_Schematic_Library/random-keyboard-parts.kicad_sym")(options "")(descr ""))
+  (lib (name "teensy")(type "KiCad")(uri "${KIPRJMOD}/lib/_Schematic_Library/teensy.kicad_sym")(options "")(descr ""))
+  (lib (name "Type-C")(type "KiCad")(uri "${KIPRJMOD}/lib/_Schematic_Library/Type-C.kicad_sym")(options "")(descr ""))
+)

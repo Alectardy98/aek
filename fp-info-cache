@@ -1,1 +1,533 @@
+126647168164823
+random-keyboard-parts
+ANT_2.4_IFA_1
+Inverted F BLE antenna designed following cypress' guide: https://www.cypress.com/file/136236/download
+PCB antenna IFA inverted F bluetooth 2.4 GHz
 0
+51
+2
+random-keyboard-parts
+ANT_2.4_IFA_2
+Inverted F BLE antenna designed following cypress' guide: https://www.cypress.com/file/136236/download
+PCB antenna IFA inverted F bluetooth 2.4 GHz
+0
+51
+2
+random-keyboard-parts
+Beeper
+
+
+0
+2
+2
+random-keyboard-parts
+CON_MJ-4PP-9
+TRRS Jack
+TRRS jack 3.5mm headphone connector
+0
+4
+4
+random-keyboard-parts
+CON_MJ-4PP-9_Reversible
+Reversible TRRS Jack
+TRRS jack 3.5mm headphone connector
+0
+8
+4
+random-keyboard-parts
+CON_TC2030_outlined
+Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2030-IDC-NL.pdf
+tag connect programming header pogo pins
+0
+6
+6
+random-keyboard-parts
+D
+
+
+0
+6
+2
+random-keyboard-parts
+D_SOD-123-Pretty
+SOD-123
+SOD-123
+0
+2
+2
+random-keyboard-parts
+Diode_SMT_THT_COMBO
+
+
+0
+6
+2
+random-keyboard-parts
+Generic-Mounthole
+
+
+0
+1
+1
+random-keyboard-parts
+Generic-Mounthole_4.6mm
+
+
+0
+1
+1
+random-keyboard-parts
+JST-SR-3
+
+
+0
+5
+3
+random-keyboard-parts
+JST-SR-4
+
+
+0
+6
+4
+random-keyboard-parts
+JST_SH_SM04B-SRSS-TB_04x1.00mm_Angled
+http://www.jst-mfg.com/product/pdf/eng/eSH.pdf
+connector jst sh
+0
+6
+4
+random-keyboard-parts
+Jumper-UserFriendly
+
+
+0
+2
+2
+random-keyboard-parts
+Jumper-UserFriendly-Small
+
+
+0
+2
+2
+random-keyboard-parts
+LED Only
+https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+LED RGB NeoPixel
+0
+4
+4
+random-keyboard-parts
+LED-6028
+
+
+0
+2
+2
+random-keyboard-parts
+LED_6028R
+rear-mount SMD 6028 RGB LED
+LED RGB 6028 rear mount reverse
+0
+4
+4
+random-keyboard-parts
+LED_D3.0mm-NoSilk
+LED, diameter 3.0mm, 2 pins
+LED diameter 3.0mm 2 pins
+0
+2
+2
+random-keyboard-parts
+LED_D3.0mm-Pretty
+LED, diameter 3.0mm, 2 pins
+LED diameter 3.0mm 2 pins
+0
+2
+2
+random-keyboard-parts
+LED_WS2812_2020
+2020 SMD adressable RGB LED with integrated controller
+LED RGB NeoPixel
+0
+4
+4
+random-keyboard-parts
+MAX77751
+3A 1S LiXx battery charging IC with USB (DP/DP + CC) current negotiation and power path
+LiIon LiPo battery charger management usb power path switch-mode step-down buck
+0
+24
+24
+random-keyboard-parts
+MX_ALPS_OMRON_725_SKCC_SMK_PSpring
+
+
+0
+19
+4
+random-keyboard-parts
+MX_ALPS_OMRON_725_SKCC_SMK_PSpring_NOLED
+
+
+0
+17
+2
+random-keyboard-parts
+Molex-0548190519
+
+
+0
+7
+6
+random-keyboard-parts
+Molex-0548190589
+
+
+0
+9
+6
+random-keyboard-parts
+MountingHole_2mm_M2_DIN965_Pad
+Mounting Hole 2.2mm, M2, DIN965
+mounting hole 2.2mm m2 din965
+0
+1
+1
+random-keyboard-parts
+PJ-3200B-4A
+
+
+0
+4
+4
+random-keyboard-parts
+PJ-3200B-4A-Assembly
+
+
+0
+4
+4
+random-keyboard-parts
+PinSocket_2x03_P2.54mm_Vertical
+Through hole straight socket strip, 2x03, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x03 2.54mm double row
+0
+6
+6
+random-keyboard-parts
+ProMicro
+Footprint for Arduino Pro Micro and compatible boards
+
+0
+24
+24
+random-keyboard-parts
+ProMicroReversible
+Reversible footprint for Arduino Pro Micro and compatible boards
+
+0
+48
+24
+random-keyboard-parts
+PushButton_6x6mm_TH
+
+
+0
+4
+4
+random-keyboard-parts
+PushButton_6x6mm_TH_Pretty
+
+
+0
+4
+4
+random-keyboard-parts
+QFN-60_EP_7x7_Pitch0.4mm
+QFN-60 package accroding to IS31FL3741A datasheets
+
+0
+158
+61
+random-keyboard-parts
+RGB-6028
+
+
+0
+4
+4
+random-keyboard-parts
+RP2040-QFN-56
+QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+70
+57
+random-keyboard-parts
+Reset_Pretty
+
+
+0
+6
+6
+random-keyboard-parts
+Reset_Pretty-Mask
+
+
+0
+6
+6
+random-keyboard-parts
+SKQG-1155865
+
+
+0
+4
+4
+random-keyboard-parts
+SKQGADE010
+
+
+0
+4
+4
+random-keyboard-parts
+SOT-23-6-routable
+SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+6
+6
+random-keyboard-parts
+SOT143B
+
+
+0
+4
+4
+random-keyboard-parts
+STM32WB5MMG
+Bluetooth capable ARM Microcontroller
+stm32 arm wireless bluetooth low energy ble zigbee
+0
+86
+86
+random-keyboard-parts
+SW_ESP3020
+ECE ESP3020 SMD slide switch
+slide switch smd ece
+0
+3
+3
+random-keyboard-parts
+SW_MSK12C02-HB
+12V 50mA SMD toggle switch, available at LCSC/JLCPCB (C431541)
+switch toggle smd 
+0
+7
+4
+random-keyboard-parts
+SW_SKHLLCA010
+alps SKHLLCA010 DIP pushbutton
+alps tht dip pushbutton SPST
+0
+4
+3
+random-keyboard-parts
+SW_SSSS213100
+alps SKHLLCA010 DIP 1-pole, 2-position switch
+alps dip tht SPDT
+0
+3
+3
+random-keyboard-parts
+SW_SSSS223900
+alps SKHLLCA010 DIP 2-pole, 3-position switch
+alps tht dip DP3T
+0
+8
+8
+random-keyboard-parts
+SW_kailh_big_1u
+Footprint for Kailh "Big Switch Series" style switches
+
+0
+2
+2
+random-keyboard-parts
+Saber
+
+
+0
+0
+0
+random-keyboard-parts
+SplitkbTentingPuck
+https://splitkb.com/products/tenting-puck
+split kb tenting puck mechanical mounting
+0
+5
+1
+random-keyboard-parts
+TQFP44
+
+
+0
+44
+44
+random-keyboard-parts
+Teensy_10_plus_10
+
+
+0
+20
+20
+random-keyboard-parts
+USB-A-Generic
+
+
+0
+6
+5
+random-keyboard-parts
+USB_C_Receptacle_HRO_TYPE-C-31-M-14
+USB Type-C receptacle for USB 2.0 and PD
+usb usb-c 2.0 pd
+0
+20
+17
+random-keyboard-parts
+USON-TPDxE05U06
+
+
+0
+10
+10
+random-keyboard-parts
+Unified Daughter Board Mounting Holes
+
+
+0
+4
+1
+random-keyboard-parts
+WS2812B
+
+
+0
+4
+4
+random-keyboard-parts
+WS2812BDual
+https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+LED RGB NeoPixel
+0
+8
+4
+random-keyboard-parts
+WS2812B_data-bridgeable
+
+
+0
+12
+4
+random-keyboard-parts
+atmega32u4-mu-and-au
+QFN, 44 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/2512S.pdf#page=17), merged with 44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFN NoLead + QFP 0.8
+0
+105
+45
+random-keyboard-parts
+breakaway-mousebites
+
+
+0
+0
+0
+random-keyboard-parts
+joystick_psp1000
+Footprint for a PSP-1000 joystick
+psp joystick analog
+0
+6
+5
+random-keyboard-parts
+mouse-bite-1mm-slot
+
+
+0
+0
+0
+random-keyboard-parts
+mouse-bite-2.54mm-slot
+
+
+0
+0
+0
+random-keyboard-parts
+mouse-bite-2mm-slot
+
+
+0
+0
+0
+random-keyboard-parts
+mouse-bite-3mm-slot
+
+
+0
+0
+0
+random-keyboard-parts
+mouse-bite-5mm-slot
+
+
+0
+0
+0
+random-keyboard-parts
+mousebites_1mm
+
+
+0
+0
+0
+random-keyboard-parts
+mousebites_2.5mm
+
+
+0
+0
+0
+random-keyboard-parts
+mousebites_2mm
+
+
+0
+0
+0
+random-keyboard-parts
+nRF52840_holyiot_18010
+Module containing a nRF52840 and most passives and antenna
+holyiot 18010 bluetooth low energy 
+0
+55
+55
+random-keyboard-parts
+nRF52840_holyiot_18010_HS_all
+Module containing a nRF52840 and most passives and antenna, with a cutout for hand soldering of the bottom IO
+holyiot 18010 bluetooth low energy 
+0
+55
+55
+random-keyboard-parts
+nRF52840_holyiot_18010_HS_simple
+Module containing a nRF52840 and most passives and antenna, with only hand solderable pads
+holyiot 18010 bluetooth low energy 
+0
+37
+37
